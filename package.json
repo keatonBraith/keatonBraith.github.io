@@ -1,8 +1,8 @@
 {
+  "homepage": "http://keatonBraith.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://keatonBraith.github.io/portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.11",
